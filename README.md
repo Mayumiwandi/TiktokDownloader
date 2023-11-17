@@ -1,8 +1,8 @@
-#Tiktok Downloader
+# Tiktok Downloader
 --------------------
 This is a Telegram bot Project to help download tiktok videos without watermark
 
-##How to run in local machine
+## How to run in local machine
 
 You must have a python program language installation, if not please install it first based on the operating system you are using. <a href="https://www.python.org/downloads/" target="_blank">**Here**</a>
 
